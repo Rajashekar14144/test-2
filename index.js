@@ -7,10 +7,6 @@ http.createServer(function (req, res) {
     res.write('Hello World Raaajshekar007 !!!!sdsds!');
     res.write('Hello World2 Raaajshekar007 !!!!sdsds!');
     
-    // From different developer
-
-    res.write('Hello World1 Raaajshekar14 !!!!sdsds!');
-
 
     
     res.write('Hello World Raaajshekar2  !!!!sdsds!');
